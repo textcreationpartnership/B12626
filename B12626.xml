@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, concernynge the aduauncement of golde and syluer, and the settyng furth of certaine newe peeces of golde and siluer, ordeyned and made by the kynges hyghnes, the. XVI. daye of May, in the. xxxvi. yere of his maiesties reygne.</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12626</idno><idno type="EEBO-CITATION">99892551</idno>
+  <idno type="VID">188934</idno>
+  <idno type="EEBO-PROQUEST">2240934166</idno>
+  
+            <idno type="STC">STC 7804.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[196]</idno>
+            <idno type="PROQUEST">ocm99892551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892551e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188934)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, concernynge the aduauncement of golde and syluer, and the settyng furth of certaine newe peeces of golde and siluer, ordeyned and made by the kynges hyghnes, the. XVI. daye of May, in the. xxxvi. yere of his maiesties reygne.</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Tho. Berth. regius impressor excudebat. cum priuilegio ad imprimendu[m] solu[m],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1544]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Place and date of publication from STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Gold --  England --  Early works to 1800.</term>
+               <term type="topical_term">Silver --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188934:1"/>
+            <head>¶ A proclamation, concernynge the aduauncement of golde and syluer, and the settyng furth of certaine newe peeces of golde and siluer, ordeyned and made by the kynges hyghnes, the <hi>XVI.</hi> daye of May, in the .xxxvi. yere of his maiesties reygne.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>ORASMOCHE</hi> as nowe of late in outward parties beyond the sea, aswell in Flaunders as in Fraunce, the price of money and gold, not onely coyned in those countreis, but also gold of the kyng our soue<g ref="char:EOLhyphen"/>raigne lordis coyne of this realme, is so enhaunced in the valuacion therof, that not onely straunge goldes, as crow<g ref="char:EOLhyphen"/>nes and ducates, but also the gold of this realme, as nobles halfe nobles and royals, by marchauntes aswell straun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sortyng hyther, as the kynges subiectes repayryng into those parties, for the great gayne and lucre that they fynde therby, dayly be transported and caryed out of this realme, to the no lytell impoueryshyng therof, and fynally to the totall exhaustyng and drawyng out of all the coynes out of the same, oneles spedy remedy be prouided in that behalfe. And albeit the kynge our soueraygne lorde hath gyuen straite charge and commaundement, to all and singular his customers comptrollers and gardians of his portes, to put all suche good actes and statutes in execution, as heretofore haue ben made, for conseruyng of the kynges coyne within this his realme: Yet neuerthelesse, for the greatte gayne and aduauntage therof rysynge, by reason of the hygh price of money beyonde the sea, the kynges coyne is daylye by secrete meanes (suche as can not be espied nor deprehended) stille caried ouer. For these cau<g ref="char:EOLhyphen"/>ses the kynge oure soueraygne lorde, tenderynge aboue all thynges the welthe and enrychynge of this his realme and people, and wyllynge to prouyde remedye herein, and that golde and coyne may remayne and be plentuousely broughte in to the same, and not caryed out in to outwarde parties, as of longe season, to the great detryment and impouerisshynge of his sayde realme, the same hathe bene, For the remedyinge whereof, there can be none other meanes and wayes studyed and deuysed, but onely a conue<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nt enhauncement of the values of golde and syluer in this realme, whereby the same maye counteruayle the values and rates of the same in outwarde partes: Hath therfore, by the aduyse of his counsayle, resolued, that the vnce of fyne golde, of .xxiiii. carates, shall be from henseforth of the value of .xlviii.s. of lawfull money of this realme, and the vnce of the fynest sterlynge syluer, shall be of the value of .iiii. s. of the sayde laufull money of this realme of England. <hi>AND</hi> to the intent money and coyne may be the more plentifull in this realme, His maiestie therfore hath caused a pece of golde to be newly made, whiche his highnes wyll, shall be called the Soueraygne, and shalbe currant for .xx.s. of the lawful money of this realme. <hi>ITEM</hi> an halfe soueraygne, whiche his maiestie wyll, shall be currant for .x.s. Item his maiestie wyll, that the royall of golde, beyng weyght, shall from henseforth be of the value of .xii.s. Item that the angell, being weight, shalbe currant for .viii.s. The halfe angell for .iiii.s. and the quarter angell beyng also newely made for .ii.s.</p>
+            <p>
+               <hi>AND</hi> his maiestie hath lykewyse caused to be newely made, certaine peeces of syluer, whiche his pleasure is shall be currant within this his gracis realme, after the rates hereafter specified. That is to saye, a peece called a Testurne, whiche shalbe currant for .xii.d.</p>
+            <p>
+               <hi>ITEM</hi> a grote with a hole face, whiche shalbe currant for .iiii.d. an halfe grote of the same stampe, whiche shalbe currant for .ii.d.</p>
+            <p>
+               <hi>AND</hi> his maiestie is further pleased, that who so euer wyll bryng vnto his Mint, in the Towre of London, any golde coyned or vncoyned, of the fynesse aforesayd, shall receyue for the vnce of the same .xlviii.s. and for the vnce of syluer of the finesse aforesayd, iiii.s. And if the golde or syluer so brought thyther, be not found of the iuste fynesse aforsayd, the sayd bringers to allowe for the lacke therof, lyke as they shall be allowed for the betternesse therof, as the goodnes of the same shall requyre.</p>
+            <p>
+               <hi>AND</hi> moreouer the kynges highnesse streightly chargeth and commandeth, that from hensforth all maner of grotes, halfe grotes, pence, halfe pence, and ferthynges of this coyne hauynge course, and beynge currant within this his sayde realme, not clypped nor fully broken, albeit they shalbe moche cracked, to be taken receyued and payde throughout his sayd realme, without any maner refu<g ref="char:EOLhyphen"/>sell or denyall. Wherfore his highnes straightly chargeth and expressely commandeth, all Mayres, Iustyces of peace, shyryffes, bay<g ref="char:EOLhyphen"/>lyffes, constables, and other his faythfull officers and subiectes, that if any person or persons, of what estate degree or condition he or they be, refuse or deny to take or receyue the sayde monies of golde, beyng weight, or any of the monyes of syluer before expressed, or nowe curraunt in this realme, be it for marchaundises victualles chaunge or rechaunge, or other cause what soeuer: furthwith to take and arrest the same person or personnes, so makyng refusall or denyall, and to put hym or them in warde and pryson, there to remayne, and further to be punyshed at the kynges pleasure.</p>
+            <p>
+               <hi>PROVIDED</hi> alwaye, that all suche summes of money as were due to the kynges maiestie, or to any other person, before the fyrst day of this present moneth of May, shall be payed after .vii. s. vi. d. the aungell, and so ratably, any thynge in this present procla<g ref="char:EOLhyphen"/>mation to the contrary not withstandyng.</p>
+            <closer>GOD SAVE THE KYNG.</closer>
+         </div>
+         <div type="colophon">
+            <p>Tho. Berth. regius impressor excudebat, </p>
+            <p>CVM priuilegio ad imprimendū solū,</p>
+         </div>
+      </body>
+   </text>
+</TEI>
